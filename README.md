@@ -1,4 +1,4 @@
-# Transparency codebase for "Inequality beyond Standardized Tests: Trends in Extracurricular Activity Reporting in College Applications Across Race and Class" research paper by Park et al.
+# Replication Code Archive for "Inequality beyond Standardized Tests: Trends in Extracurricular Activity Reporting in College Applications Across Race and Class" research paper by Park et al.
 
 This repository is a public-facing archive of the analytic code used for the paper, "Inequality beyond Standardized Tests: Trends in Extracurricular Activity Reporting in College Applications Across Race and Class," by Julie Park et al. A public working paper draft of this work will be available by mid-Feburary, 2023:
 
