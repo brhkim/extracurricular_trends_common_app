@@ -9,12 +9,13 @@ Importantly, the data necessary for this project were provided in close collabor
 Code in this repository is named in the same sequence it needs to be run. The general flow of the analysis proceeds in the following steps:
 1. Gather the requisite data from the Common App data warehouse
 2. Create a cleaned dataset of covariates for student data
-2b-2d. Conduct exploratory text analyses to inform the creation of a keyword dictionary
-2e-2f. Align manually created keyword dictionaries and apply to the data
+   + 2b-2d. Conduct exploratory text analyses to inform the creation of a keyword dictionary
+   + 2e-2f. Align manually created keyword dictionaries and apply to the data
 3. Create a final analytic dataset with all the extracurricular measures and student covariates together
-3b. Produce simple descriptive tables to describe the sample
+   + 3b. Produce simple descriptive tables to describe the sample
 4. Conduct simple descriptive analysis on the extracurricular data results
-4b. Run regression analyses as described in the paper
-5-6. Run supplementary analyses to examine the robustness of our dictionary method against human judgment, and other related robustness checks
+   + 4b. Run regression analyses as described in the paper
+5. Run supplementary analyses to examine the robustness of our dictionary method against human judgment
+6. Conduct other related robustness checks
 
 While this codebase cannot be applied "as-is" to any other data, I am happy to provide whatever support I can to other researchers interested in applying similar methods, or encountering similar technical challenges in their own analyses. I also recognize the potential for errors and issues of all kinds, despite my best efforts. Please don't hesitate to reach out!
